@@ -4,15 +4,11 @@
 
 ## 如何使用
 
-### 第一步：添加邮箱、密码到环境变量
+### 第一步：添加 cookie 到环境变量
 
-打开青龙面板，创建 `IKUUU_EMAIL` 和 `IKUUU_PWD` 变量，多个邮箱或密码请换行。
+打开青龙面板，创建 `IKUUU_COOKIE` 变量，多个 cookie 请换行。
 
-> 注意：邮箱和密码数量必须一致且一一对应。
-
-<img alt="env-email" src="./screenshots/env-email.png" />  
-
-<img alt="env-pwd" src="./screenshots/env-pwd.png" />  
+<img alt="env-cookie" src="./screenshots/env-cookie.png" />  
 
 ### 第二步：添加依赖项
 
